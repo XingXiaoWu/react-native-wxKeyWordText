@@ -1,5 +1,5 @@
 
-# react-native-wxtip
+# react-native-wxkeywordtext
 ## [English.md](./README.en.md)
 ## 说明
 一个提取关键字的text
@@ -7,7 +7,7 @@
 ## 集成方式
 
 ### 为你的项目添加本库,无需link
-`$ npm install react-native-wxKeyWordText --save`
+`$ npm install react-native-wxkeywordtext --save`
 或
 `yarn add react-native-WXKeyWordText`
 
@@ -15,8 +15,8 @@
 ## 用法
 ### RN中
 ```
-//引入WXTip
-import {WXKeyWordText} from 'react-native-WXKeyWordText';
+//引入WXKeyWordText
+import {WXKeyWordText} from 'react-native-wxkeywordtext';
 
 		<WXKeyWordText
 			//默认的大段文字
