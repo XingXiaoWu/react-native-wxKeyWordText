@@ -9,7 +9,7 @@
 ### 为你的项目添加本库,无需link
 `$ npm install react-native-wxkeywordtext --save`
 或
-`yarn add react-native-WXKeyWordText`
+`yarn add react-native-wxkeywordtext `
 
 
 ## 用法
